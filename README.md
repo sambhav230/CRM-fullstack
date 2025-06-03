@@ -93,7 +93,7 @@ CRM-Project/
 - cd xeno-crm-frontend
 - npm install
 - npm start
-- Open [http://localhost:3000](http://localhost:3000) to view it
+- Open https://crm-fullstack-lac.vercel.app/ to view it
 
 
 ### **Backend Setup**
